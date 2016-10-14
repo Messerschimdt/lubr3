@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="197.752"
+   height="71.188"
+   viewBox="0 0 185.39235 66.738746"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo-hand-drawn.svg">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="779"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="5.1889852"
+     inkscape:cx="31.036236"
+     inkscape:cy="43.302638"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="a">
+      <path
+         d="M160 2988.632c0-14.744 11.952-26.696 26.696-26.696 14.743 0 26.695 11.952 26.695 26.696 0 14.743-11.95 26.695-26.694 26.695S160 3003.375 160 2988.632"
+         id="path7" />
+    </clipPath>
+    <linearGradient
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(53.39124 0 0 -53.39124 160 2988.632)"
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#2dbae8"
+         id="stop10" />
+      <stop
+         offset=".093"
+         stop-color="#2dbae8"
+         id="stop12" />
+      <stop
+         offset=".874"
+         stop-color="#00b6ad"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#00b6ad"
+         id="stop16" />
+    </linearGradient>
+  </defs>
+  <g
+     clip-path="url(#a)"
+     transform="matrix(1.25 0 0 -1.25 -200 3769.16)"
+     id="g18">
+    <path
+       d="M160 2988.632c0-14.744 11.952-26.696 26.696-26.696 14.743 0 26.695 11.952 26.695 26.696 0 14.743-11.95 26.695-26.694 26.695S160 3003.375 160 2988.632"
+       fill="url(#b)"
+       id="path20" />
+  </g>
+  <path
+     d="M33.232 17.958c-.334 1.768-.94 4.79-1.583 6.312l-2.29 4.182-3.275 4.154-1.178 2.265c-.334.882-.58 1.98-.73 3.326.227 1.814.713 3.172 1.2 4.53 1.297 1.748 2.645 2.403 3.942 3.317 1.233.4 2.466.902 3.7.858 2.18-.04 3.762-.383 4.812-.99 1.28-1.038 2.88-1.838 3.467-3.397.675-1.138.85-2.052 1.13-3.114.07-1.675-.36-3.95-1.023-5.025-.997-1.71-2.34-3.222-3.575-4.812-1.057-1.41-1.973-3.15-2.83-5.024-1.125-2.098-1.333-4.36-1.77-6.582z"
+     fill="#fff"
+     fill-rule="evenodd"
+     stroke="#e1e1e1"
+     stroke-width=".2"
+     stroke-linejoin="round"
+     id="path22" />
+  <text
+     y="547.927"
+     x="475.979"
+     style="-inkscape-font-specification:Geomanist-Regular"
+     font-weight="400"
+     font-size="31.25"
+     font-family="Geomanist Regular"
+     fill="#b0b0b0"
+     transform="translate(-384.613 -504.734)"
+     id="text24">
+    <tspan
+       x="475.97891 498.10391 527.82263 553.54138"
+       y="547.927"
+       style="-inkscape-font-specification:Geomanist"
+       font-family="Geomanist"
+       id="tspan26">LUBR</tspan>
+  </text>
+</svg>

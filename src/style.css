@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'Monterrat';
+    src: url('./font/Montserrat-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'ptsans';
+    src: url('./font/ptsans.ttf') format('truetype');
+}
+.pitch {
+    font-size: 32px;
+    font-weight: 400px;
+}
+.navbar-default {
+    height: 100px;
+    background-color: #fff;
+    border: none;
+}
+.pitch_body {
+    border-bottom: solid;
+    padding-bottom: 15px;
+    border-color: #fff;
+    font-family: 'ptsans', sans-serif;
+    ;
+    font-size: 12px;
+}
+.logo {
+    background-image: url(./img/SVGO.svg);
+    width: 210px;
+    height: 80px;
+    background-repeat: no-repeat;
+}
+.banner1 {
+    background-image: url(./img/banner1_image_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2em;
+    font-family: "Monterrat";
+    color: #fff;
+}
+.input-group {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.input-padding {
+    padding-left: 52px;
+}
+body> div.row> div> div> div> input {
+    border-color: rgb(52, 160, 159);
+}
+.input-group-addon {
+    border-color: rgb(52, 160, 159);
+}
+.btn-teal{
+  background: #3399cc; /* Old browsers */
+  background: -moz-linear-gradient(left, #3399cc 0%, #009999 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #3399cc 0%,#009999 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #3399cc 0%,#009999 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3399cc', endColorstr='#009999',GradientType=1 );
+
+  font-family: "Montserrat";
+  color:#fff;
+  width:150px;
+  margin-bottom:15px;
+}
+.btn-teal:hover{
+  color:#ffdf8b;
+}
+.banner2{
+  margin-top: 20px;
+  background-image: url(./img/car_desk.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 2em;
+  font-family: "Monterrat";
+  color: #fff;
+
+}
+.thankyou{
+  border: solid;
+  border-color: #fff;
+  text-align: center;
+}
+.icon{
+  background-image: url('./img/logo.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100px;
+  height:100px;
+}
+.phone{
+  height:270px;
+
+}
+.flex-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.soon{
+  font-family: 'ptsans';
+  color: rgb(52, 160, 159);
+}
+.phone-desk{
+  margin-top: -30px;
+height:350px;
+align-self: flex-start;
+}
+
+@media screen and (min-device-width: 767px) {
+.banner1{
+  height:300px;
+}
+.pitch_body{
+  width:350px;
+}
+.banner2{
+  height:420px;
+}
+}
+
+@media screen and (min-device-width: 1200px ){
+.banner1{
+  height:400px;
+}
+.pitch_body{
+  margin-top: 20px;
+}
+  .input-group{
+    margin-top: 7.5px;
+    margin-bottom: 7.5px;
+  }
+  .btn-teal{
+    margin-top: 15px;
+  }
+  .icon {
+    margin-top: 20px;
+
+  }
+  .soon{
+    margin-bottom: 50px;
+  }
+  .form{
+    margin-top: 20px;
+  }
+.phone-desk{
+  margin-top: -15px;
+}
+}
+
+
+@media screen and (min-device-width: 1900px ){
+  .pitch_body{
+    margin-top: 25px;
+  }
+ .banner1{
+   height:450px;
+ }
+ .form{
+   margin-top: 30px;
+ }
+ .phone-desk{
+   margin-top:0px;
+ }
+.icon{
+  margin-top: 75px;
+}
+.soon{
+
+}
+}
